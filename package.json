@@ -1,0 +1,23 @@
+{
+    "name": "@bjohansebas/config",
+    "version": "0.1.0",
+    "license": "MIT",
+    "keywords": [
+        "config",
+        "typescript"
+    ],
+    "files": [
+        "./**"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bjohansebas/config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/bjohansebas/config/issues"
+    },
+    "homepage": "https://github.com/bjohansebas/config#readme",
+    "publishConfig": {
+        "access": "public"
+    }
+}

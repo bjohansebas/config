@@ -1,2 +1,7 @@
-# config
-Default configs
+# @bjohansebas/config
+
+Default config for TypeScript projects.
+
+# License
+
+MIT
